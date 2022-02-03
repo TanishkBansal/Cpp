@@ -1,0 +1,5 @@
+In above three programs that are very basic thing to start any programming of we didn't did that then it is difficult to move ahead.
+
+Now , by practicing this above few programs we can move forward with one level up.
+
+Next will be loops & conditions.
